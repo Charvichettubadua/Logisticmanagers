@@ -1,0 +1,257 @@
+.brandname{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:x-large;
+    font-style: italic;
+    margin-left: 650px;
+}
+
+.logo_img{
+    height: 40px;
+    width: 40px;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dqbueilyh/image/upload/v1697953749/breadcrumb-bg_hlf7ht.jpg");
+    height: 35vh;
+    background-size: cover;
+}
+.banner-title{
+    color: white;
+    font-family: serif;
+    padding-top:140px;
+}
+
+.Welcome_container{
+    background-color: white;
+}
+
+
+.title{
+    color: #000;
+    font-family:"Serif";
+    font-weight: bold;
+    font-size:35px;
+    padding-top :25px;
+    padding-left: 50px;
+}
+.para{
+    font-family:"Serif";
+    padding-top :25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.card{
+    
+    width:310px;
+    margin-top :25px;
+    margin-left: 50px;
+    margin-bottom:25px;
+    
+}
+
+.card-title {
+    color: #000;
+    font-family: "Serif";
+    font-weight:bold;
+    margin-top: 5px;
+    padding-left:10px;
+}
+
+.card-para{
+    font-family: "Serif";
+    font-size: 15px;
+    margin-top: 5px;
+    padding-left:10px;
+    padding-right: 5px;
+}
+
+.services_container{
+    background-color:white;
+}
+
+.services_card{
+    margin-top:50px;
+    margin-left: 50px;
+    margin-bottom:25px;
+    padding-right:25px;
+}
+
+.icons {
+    height:65px;
+    width: 65px;
+}
+
+.services_cards_title{
+    color: #000;
+    font-family: "Serif";
+    margin-top: 5px;
+    padding-left:10px;
+}
+
+.services_cards_para{
+    padding-left:10px;
+}
+
+.aboutus_img-1{
+    height:300px;
+    width:700px;
+    margin-top:80px;
+    margin-left:100px;
+    margin-right: 60px;
+    margin-bottom:150px;
+}
+
+.aboutus_img-2{
+    height:500px;
+    width:850px;
+    margin-left:60px;
+    margin-bottom:45px;
+}
+
+.aboutus_title{
+    color: #000;
+    font-family:"Serif";
+    font-weight: bold;
+    font-size:33px;
+    padding-top :80px;
+    padding-bottom:20px;
+}
+
+.aboutus_icon{
+    color: rgb(74, 103, 249);
+    margin-left: 5px;
+    margin-right: 15px;
+    margin-top:3px;
+    padding-left:70px;
+
+}
+
+.aboutus_icon_para{
+    color: rgb(74, 103, 249);
+    font-family: serif;
+}
+
+.contact_title{
+    color: #000;
+    font-family:"Serif";
+    font-weight: bold;
+    font-size:33px;
+    padding-top :80px;
+    padding-bottom:15px;
+    padding-left:100px;
+}
+
+.contact_para{
+    padding-left:100px;
+    padding-bottom:50px;
+}
+.contactus_box_names{
+    font-family: serif;
+    padding-left:100px;
+}
+
+.contact_container{
+    height:400px;
+    width:470px;
+    margin-top:240px;
+    margin-left:80px;
+    margin-bottom:200px;
+    padding:35px;
+    padding-bottom:400px;
+    border-radius:3px;
+
+}
+
+.contactcardpage_title{
+    font-family: serif;
+    font-weight: 600;
+}
+
+.contactcardpage{
+    font-family: serif;
+    font-weight: 500;   
+}
+
+.contactpage_icon{
+    color: #000;
+    font-size: 26px;
+    margin-right: 15px;
+}
+
+.contactpage_info{
+    font-family: serif;
+    color: rgb(53, 52, 52);
+}
+
+.Registration_form_date_and_time{
+    font-family: serif;
+    font-size: larger;
+    padding-left:100px;   
+}
+
+.Submit_button{
+    margin-left:100px;
+    margin-bottom:100px;
+}
+
+.loginbox{
+    margin-left:100px;
+}
+
+.footer_items{
+    background-color: #222121;
+    padding:50px;
+
+}
+
+.footer_container{
+    width:300px;
+}
+
+.footer_title{
+    color:white;
+    font-family: serif;
+
+}
+
+.footer_para{
+    color: darkgrey;
+    font-family: serif;
+}
+
+.icon-section {
+    color: darkgrey;
+}
+
+.unorderedlist_items{
+    list-style-type:none;
+    color: darkgrey;
+    font-family: serif;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.navbar-link {
+    color:darkgrey;
+    font-family: "serif";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.con_icon {
+    color: darkgrey;
+    font-family: serif;
+    font-size: 16px;
+    margin-left: 5px;
+    margin-right: 15px;
+    margin-top:3px;
+}
+
+.con_para {
+    color: darkgrey;
+    font-family: serif;
+    
+}

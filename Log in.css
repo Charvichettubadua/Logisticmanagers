@@ -1,0 +1,44 @@
+.background{
+    background-color:whitesmoke;
+    padding-top: 200px;
+    height:100vh;
+    width:cover;
+}
+
+.loginpage{
+    background-color:white;
+    border-radius:15px;
+    height: 420px;
+    width: 405px;
+    padding:15px;
+    border: 1px solid #add;
+    box-shadow: 4px 4px 4px blue,
+                8px 8px 8px red,
+                12px 12px 12px blue;
+
+
+}
+.main_logup
+{
+    padding-left:10px;
+}
+.heading
+{
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 1000;
+    color: rgb(7, 7, 7);
+    font-size:40px;
+    padding:10px;
+    padding-left:25px;
+
+}
+
+.logincolor
+{
+    color: aliceblue;
+    border-radius:5px;
+}
+.loginbox{
+    border-radius:5px;
+    border-color: rgb(76, 76, 77);
+}
